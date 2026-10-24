@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time	 A	 B	 Y
+0ns	 0	 0	 0
+10000ns	 0	 1	 0
+20000ns	 1	 0	 0
+30000ns	 1	 1	 1
+$finish called at time : 40 ns : File "E:/PROGRAMMING/Vivado/project_2/project_2.srcs/sim_1/new/tb_and_gate.v" Line 42

@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 16 2026
+11:10:11
+C:/AMDDesignTools/2026.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,1781630895,verilog,,,,,,,,,,,,
+E:/PROGRAMMING/Vivado/UVM/project_2.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,uvm,,,,,,
+E:/PROGRAMMING/Vivado/UVM/project_2.srcs/sim_1/new/tb_and_gate.sv,1792162334,systemVerilog,,,C:/AMDDesignTools/2026.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,$unit_tb_and_gate_sv;tb_and_gate,,uvm,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/PROGRAMMING/Vivado/UVM/project_2.srcs/sources_1/new/AND_GATE.v,1792074037,verilog,,,,and_gate,,uvm,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,

@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sat Oct 24 08:49:38 2026
+# Process ID         : 6952
+# Current directory  : E:/PROGRAMMING/Vivado/UVM
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent12680 E:\PROGRAMMING\Vivado\UVM\project_2.xpr
+# Log file           : E:/PROGRAMMING/Vivado/UVM/vivado.log
+# Journal file       : E:/PROGRAMMING/Vivado/UVM\vivado.jou
+# Running On         : DESKTOP-HRVR30P
+# Platform           : Windows 11
+# Operating System   : 26300
+# Processor Detail   : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+# CPU Frequency      : 2304 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17019 MB
+# Swap memory        : 6174 MB
+# Total Virtual      : 23193 MB
+# Available Virtual  : 7277 MB
+#-----------------------------------------------------------
+start_gui
+open_project E:/PROGRAMMING/Vivado/UVM/project_2.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config E:/PROGRAMMING/Vivado/UVM/tb_and_gate_behav.wcfg
+source tb_and_gate.tcl
+close_sim
